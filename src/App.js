@@ -95,7 +95,7 @@ function App() {
 
   return (
     <div className="main-container">
-      <h1>UnSplash Image Gallery</h1>
+      <h1>UnSplash Infinite Image Gallery</h1>
 
      <div className="search-container"> 
      <input type="text" value={input} onChange={handleChange} placeholder="Beautiful Day..." />    
